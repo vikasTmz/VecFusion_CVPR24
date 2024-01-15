@@ -17,6 +17,6 @@
 <sup>4</sup> University of Toronto
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.11792-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2312.10540)
-[![Project Page](https://img.shields.io/badge/Project_Page-lottiegpt.github.io-111111.svg)](https://vikastmz.github.io/VecFusion/)
+[![Project Page](https://img.shields.io/badge/Project_Page-vikastmz.github.io/VecFusion/-111111.svg)](https://vikastmz.github.io/VecFusion/)
 
 </div>
