@@ -2,7 +2,7 @@
 
 <h1>VecFusion</h1>
 
-**Vector Font Generation with Diffusion **
+**Vector Font Generation with Diffusion**
 
 <i>CVPR 2024 Highlight</i>
 
